@@ -1,0 +1,7 @@
+instruction,input,output
+Summarize the purpose of the drug.,Drug: Metformin. Used for management of type 2 diabetes.,Metformin helps control blood sugar levels in people with type 2 diabetes.
+Extract the dosage information.,Medication: Amoxicillin 500 mg taken three times daily for 7 days.,"500 mg, three times daily for 7 days."
+Identify the therapeutic class of the drug.,Drug: Atorvastatin.,Statin (HMG‑CoA reductase inhibitor).
+Rewrite the instruction for a patient in simple language.,Take one tablet of ibuprofen every 6 hours as needed for pain.,Take one ibuprofen tablet every 6 hours if you have pain.
+Detect the mentioned side effect.,"Common reactions include nausea, headache, and mild dizziness.","Nausea, headache, and dizziness."
+Classify the drug route of administration.,Insulin injection administered subcutaneously before meals.,Subcutaneous injection.
